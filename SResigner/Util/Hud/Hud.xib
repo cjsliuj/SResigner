@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.Cocoa.XIB" version="3.0" toolsVersion="14313.18" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none" useAutolayout="YES" customObjectInstantitationMethod="direct">
+    <dependencies>
+        <deployment identifier="macosx"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="14313.18"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <customObject id="-2" userLabel="File's Owner" customClass="Hud" customModule="MyInjecter" customModuleProvider="target">
+            <connections>
+                <outlet property="_indicator" destination="U9O-5k-x2l" id="1o3-xE-2Qb"/>
+                <outlet property="_messageLb" destination="EOw-xx-nls" id="Okv-Eq-oZI"/>
+            </connections>
+        </customObject>
+        <customObject id="-1" userLabel="First Responder" customClass="FirstResponder"/>
+        <customObject id="-3" userLabel="Application" customClass="NSObject"/>
+        <customView id="c22-O7-iKe">
+            <rect key="frame" x="0.0" y="0.0" width="607" height="457"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
+            <subviews>
+                <progressIndicator wantsLayer="YES" horizontalHuggingPriority="750" verticalHuggingPriority="750" maxValue="100" bezeled="NO" indeterminate="YES" style="spinning" translatesAutoresizingMaskIntoConstraints="NO" id="U9O-5k-x2l">
+                    <rect key="frame" x="288" y="213" width="32" height="32"/>
+                </progressIndicator>
+                <textField horizontalHuggingPriority="251" verticalHuggingPriority="750" translatesAutoresizingMaskIntoConstraints="NO" id="EOw-xx-nls">
+                    <rect key="frame" x="52" y="53" width="504" height="150"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="500" id="QDF-TV-dld"/>
+                        <constraint firstAttribute="height" constant="150" id="agP-NI-SgH"/>
+                    </constraints>
+                    <textFieldCell key="cell" lineBreakMode="charWrapping" alignment="center" title="message" id="cjk-nR-UVj">
+                        <font key="font" metaFont="system" size="15"/>
+                        <color key="textColor" red="0.47589459196891193" green="0.47589459196891193" blue="0.47589459196891193" alpha="0.84705882352941175" colorSpace="custom" customColorSpace="sRGB"/>
+                        <color key="backgroundColor" name="textBackgroundColor" catalog="System" colorSpace="catalog"/>
+                    </textFieldCell>
+                </textField>
+            </subviews>
+            <constraints>
+                <constraint firstItem="U9O-5k-x2l" firstAttribute="centerX" secondItem="c22-O7-iKe" secondAttribute="centerX" id="8g8-EC-N7f"/>
+                <constraint firstItem="EOw-xx-nls" firstAttribute="top" secondItem="U9O-5k-x2l" secondAttribute="bottom" constant="10" id="QCG-t9-q1m"/>
+                <constraint firstItem="EOw-xx-nls" firstAttribute="centerX" secondItem="U9O-5k-x2l" secondAttribute="centerX" id="a5s-xj-zVN"/>
+                <constraint firstItem="U9O-5k-x2l" firstAttribute="centerY" secondItem="c22-O7-iKe" secondAttribute="centerY" id="wg8-cx-hRf"/>
+            </constraints>
+            <point key="canvasLocation" x="-372" y="116"/>
+        </customView>
+    </objects>
+</document>

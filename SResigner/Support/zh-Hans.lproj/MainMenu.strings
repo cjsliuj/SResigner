@@ -1,0 +1,153 @@
+
+/* Class = "NSMenuItem"; title = "Stop Speaking"; ObjectID = "0Xf-zx-VsE"; */
+"0Xf-zx-VsE.title" = "Stop Speaking";
+
+/* Class = "NSMenuItem"; title = "Smart Copy/Paste"; ObjectID = "0o6-0w-Umq"; */
+"0o6-0w-Umq.title" = "Smart Copy/Paste";
+
+/* Class = "NSMenuItem"; title = "内部签名工具"; ObjectID = "1Xt-HY-uBw"; */
+"1Xt-HY-uBw.title" = "内部签名工具";
+
+/* Class = "NSMenuItem"; title = "Start Speaking"; ObjectID = "3NN-0f-6YD"; */
+"3NN-0f-6YD.title" = "Start Speaking";
+
+/* Class = "NSMenuItem"; title = "Speech"; ObjectID = "3xx-Od-5fp"; */
+"3xx-Od-5fp.title" = "Speech";
+
+/* Class = "NSMenuItem"; title = "Use Selection for Find"; ObjectID = "52Q-7k-3V9"; */
+"52Q-7k-3V9.title" = "Use Selection for Find";
+
+/* Class = "NSMenuItem"; title = "关于"; ObjectID = "5kV-Vb-QxS"; */
+"5kV-Vb-QxS.title" = "关于";
+
+/* Class = "NSMenuItem"; title = "Jump to Selection"; ObjectID = "7aj-2M-l3h"; */
+"7aj-2M-l3h.title" = "Jump to Selection";
+
+/* Class = "NSMenuItem"; title = "Cut"; ObjectID = "7js-dx-5RR"; */
+"7js-dx-5RR.title" = "Cut";
+
+/* Class = "NSMenuItem"; title = "Paste and Match Style"; ObjectID = "8Up-Zb-pPj"; */
+"8Up-Zb-pPj.title" = "Paste and Match Style";
+
+/* Class = "NSMenuItem"; title = "Smart Dashes"; ObjectID = "9Ol-R6-JYg"; */
+"9Ol-R6-JYg.title" = "Smart Dashes";
+
+/* Class = "NSMenu"; title = "Main Menu"; ObjectID = "AYu-sK-qS6"; */
+"AYu-sK-qS6.title" = "Main Menu";
+
+/* Class = "NSMenuItem"; title = "Edit"; ObjectID = "DYl-jA-a3r"; */
+"DYl-jA-a3r.title" = "Edit";
+
+/* Class = "NSMenuItem"; title = "Make Lower Case"; ObjectID = "E5a-cb-DTg"; */
+"E5a-cb-DTg.title" = "Make Lower Case";
+
+/* Class = "NSMenuItem"; title = "Find…"; ObjectID = "ENu-gB-9cK"; */
+"ENu-gB-9cK.title" = "Find…";
+
+/* Class = "NSMenu"; title = "Speech"; ObjectID = "F9m-cX-2Ce"; */
+"F9m-cX-2Ce.title" = "Speech";
+
+/* Class = "NSMenuItem"; title = "清理缓存"; ObjectID = "GU0-nd-tqb"; */
+"GU0-nd-tqb.title" = "清理缓存";
+
+/* Class = "NSMenuItem"; title = "Spelling and Grammar"; ObjectID = "H1N-Ts-kKt"; */
+"H1N-Ts-kKt.title" = "Spelling and Grammar";
+
+/* Class = "NSMenuItem"; title = "Check Grammar With Spelling"; ObjectID = "LGr-k8-3R8"; */
+"LGr-k8-3R8.title" = "Check Grammar With Spelling";
+
+/* Class = "NSMenuItem"; title = "Find Next"; ObjectID = "NPV-oi-Jyw"; */
+"NPV-oi-Jyw.title" = "Find Next";
+
+/* Class = "NSMenu"; title = "Substitutions"; ObjectID = "Nyd-UE-cyz"; */
+"Nyd-UE-cyz.title" = "Substitutions";
+
+/* Class = "NSMenuItem"; title = "Undo"; ObjectID = "OSs-fd-HZH"; */
+"OSs-fd-HZH.title" = "Undo";
+
+/* Class = "NSMenuItem"; title = "Find and Replace…"; ObjectID = "Ocw-JU-sOf"; */
+"Ocw-JU-sOf.title" = "Find and Replace…";
+
+/* Class = "NSMenu"; title = "Spelling"; ObjectID = "Ouw-QK-y8Q"; */
+"Ouw-QK-y8Q.title" = "Spelling";
+
+/* Class = "NSMenuItem"; title = "Check Spelling While Typing"; ObjectID = "PDo-cN-eKD"; */
+"PDo-cN-eKD.title" = "Check Spelling While Typing";
+
+/* Class = "NSWindow"; title = "内部签名工具"; ObjectID = "QvC-M9-y7g"; */
+"QvC-M9-y7g.title" = "内部签名工具";
+
+/* Class = "NSMenuItem"; title = "Redo"; ObjectID = "Wnd-4J-iOp"; */
+"Wnd-4J-iOp.title" = "Redo";
+
+/* Class = "NSMenuItem"; title = "Substitutions"; ObjectID = "YTI-LB-Vtn"; */
+"YTI-LB-Vtn.title" = "Substitutions";
+
+/* Class = "NSMenuItem"; title = "Copy"; ObjectID = "YX2-fR-ALh"; */
+"YX2-fR-ALh.title" = "Copy";
+
+/* Class = "NSMenuItem"; title = "Select All"; ObjectID = "ZMk-ee-aSz"; */
+"ZMk-ee-aSz.title" = "Select All";
+
+/* Class = "NSMenu"; title = "Transformations"; ObjectID = "ZXG-1R-0Fx"; */
+"ZXG-1R-0Fx.title" = "Transformations";
+
+/* Class = "NSMenuItem"; title = "Transformations"; ObjectID = "aMw-Au-Pfr"; */
+"aMw-Au-Pfr.title" = "Transformations";
+
+/* Class = "NSMenuItem"; title = "Smart Links"; ObjectID = "d5K-51-taS"; */
+"d5K-51-taS.title" = "Smart Links";
+
+/* Class = "NSMenuItem"; title = "Delete"; ObjectID = "eZb-9g-w8Z"; */
+"eZb-9g-w8Z.title" = "Delete";
+
+/* Class = "NSMenuItem"; title = "Show Spelling and Grammar"; ObjectID = "fbs-oR-xeR"; */
+"fbs-oR-xeR.title" = "Show Spelling and Grammar";
+
+/* Class = "NSMenuItem"; title = "Show Substitutions"; ObjectID = "gqQ-W0-70c"; */
+"gqQ-W0-70c.title" = "Show Substitutions";
+
+/* Class = "NSMenuItem"; title = "Smart Quotes"; ObjectID = "iBY-4a-gl0"; */
+"iBY-4a-gl0.title" = "Smart Quotes";
+
+/* Class = "NSMenuItem"; title = "Capitalize"; ObjectID = "jTV-Yg-4UC"; */
+"jTV-Yg-4UC.title" = "Capitalize";
+
+/* Class = "NSMenuItem"; title = "Find"; ObjectID = "lif-0y-9Xn"; */
+"lif-0y-9Xn.title" = "Find";
+
+/* Class = "NSMenuItem"; title = "打开工作目录"; ObjectID = "pih-ZV-ox9"; */
+"pih-ZV-ox9.title" = "打开工作目录";
+
+/* Class = "NSMenuItem"; title = "Check Document Now"; ObjectID = "qvi-v6-ZO8"; */
+"qvi-v6-ZO8.title" = "Check Document Now";
+
+/* Class = "NSMenu"; title = "Find"; ObjectID = "rRK-EL-vZB"; */
+"rRK-EL-vZB.title" = "Find";
+
+/* Class = "NSMenuItem"; title = "Make Upper Case"; ObjectID = "rv1-q9-2tR"; */
+"rv1-q9-2tR.title" = "Make Upper Case";
+
+/* Class = "NSMenuItem"; title = "默认注入设置"; ObjectID = "sAT-Xw-4ee"; */
+"sAT-Xw-4ee.title" = "默认注入设置";
+
+/* Class = "NSMenuItem"; title = "Paste"; ObjectID = "sXZ-zu-Q7m"; */
+"sXZ-zu-Q7m.title" = "Paste";
+
+/* Class = "NSMenuItem"; title = "Text Replacement"; ObjectID = "swZ-fO-9KQ"; */
+"swZ-fO-9KQ.title" = "Text Replacement";
+
+/* Class = "NSMenuItem"; title = "Data Detectors"; ObjectID = "sx4-9v-seG"; */
+"sx4-9v-seG.title" = "Data Detectors";
+
+/* Class = "NSMenu"; title = "内部签名工具"; ObjectID = "uQy-DD-JDr"; */
+"uQy-DD-JDr.title" = "内部签名工具";
+
+/* Class = "NSMenuItem"; title = "Correct Spelling Automatically"; ObjectID = "wIV-XX-XcP"; */
+"wIV-XX-XcP.title" = "Correct Spelling Automatically";
+
+/* Class = "NSMenu"; title = "Edit"; ObjectID = "yyc-oK-Wzo"; */
+"yyc-oK-Wzo.title" = "Edit";
+
+/* Class = "NSMenuItem"; title = "Find Previous"; ObjectID = "z8N-Yg-MHy"; */
+"z8N-Yg-MHy.title" = "Find Previous";

@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  Scalpel
+
+  Created by 刘杰 on 2019/3/17.
+  Copyright © 2019 com.sz.jerry. All rights reserved.
+*/
+CFBundleDisplayName = "内部签名工具";
+CFBundleName = "内部签名工具";
