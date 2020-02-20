@@ -98,7 +98,7 @@ class MainVC: NSViewController, NSTableViewDelegate, NSTableViewDataSource, Drag
         let openPanel: NSOpenPanel = NSOpenPanel.init()
         openPanel.allowsMultipleSelection = true
         openPanel.canChooseDirectories = false
-        openPanel.canChooseFiles = false
+        openPanel.canChooseFiles = true
         openPanel.allowedFileTypes = ["ipa"]
         openPanel.beginSheetModal(for: self.view.window!) { (resp: NSApplication.ModalResponse) in
             if resp == NSApplication.ModalResponse.OK{
